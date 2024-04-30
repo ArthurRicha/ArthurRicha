@@ -60,5 +60,7 @@
     3.
     4.
     5.
+
+  ![Snake animation] (https://github.com/ArthurRicha/ArthurRicha/blob/output/github-contribution-grid-snake.svg)
 </details>
 
