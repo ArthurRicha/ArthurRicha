@@ -1,5 +1,5 @@
 <!--Tentar botar um png com a frase abaixo -->
-# Welcome to Arthur Richa's profile!
+# 👋 Welcome to Arthur Richa's profile!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="left">
