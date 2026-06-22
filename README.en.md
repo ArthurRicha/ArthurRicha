@@ -1,7 +1,7 @@
 # Welcome to my profile 👋
 
-- 🎓 B.Sc. in Computer Science from Vila Velha University (https://uvv.br/)
-- 🎓 B.Sc. in Industrial Engineering from the Federal University of Espírito Santo (https://www.ufes.br/)
+- 🎓 B.Sc. in Computer Science from [Vila Velha University (UVV)](https://uvv.br/)
+- 🎓 B.Sc. in Industrial Engineering from [Federal University of Espírito Santo (UFES)](https://www.ufes.br/)
 - 💻 Interested in Data Science, Data Engineering, Artificial Intelligence, and Cloud Computing
 - 🌍 Open to new opportunities
 
@@ -23,7 +23,7 @@
 
 ## Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/arthur-richa-gallardo-de-carvalho
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-richa-gallardo-de-carvalho/)
 - 📧 Email: arthurricha@gmail.com
 
 ## Stacks
