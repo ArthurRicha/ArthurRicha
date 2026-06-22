@@ -8,7 +8,7 @@
 ## Estudando Atualmente
 
 - 📚 Inglês Avançado
-- 📝 Preparando para o Exame Nacional Pós Graduação em Computação (POSCOMP)
+- 📝 Preparando para o Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)
 - 🎓 Preparando para o Mestrado em Ciência da Computação
 - 🧠 Aprendizado de Máquina, Inteligência Artificial e Ciência de Dados
 - 👨‍💻 Engenharia de Dados, Tecnologia em Nuvem, Frameworks de Dados Modernos
